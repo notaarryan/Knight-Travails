@@ -1,4 +1,3 @@
-# Knight-Travails
 # Knight's Travails 🐴
 
 This project implements a solution to the classic **Knight's Travails** problem using **Breadth-First Search (BFS)** in JavaScript.
