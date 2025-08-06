@@ -46,6 +46,7 @@ console.log(knightsTravails([0, 0], [3, 3]));
 
 ## 📁 File Structure
 
+- `index.html` – HTML file used to run and test the knight pathfinding function in the browser
 - `KnightsTravails.js` — contains the BFS logic and pathfinding function
 - `README.md` — project documentation
 
